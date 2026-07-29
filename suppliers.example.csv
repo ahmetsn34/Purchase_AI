@@ -1,0 +1,7 @@
+firma;mail;yetkili;kategoriler;para_birimi;aktif
+Ornek Rulman Ltd.;teklif@ornekrulman.example;Ayse Demir;rulman|yataklama;EUR;1
+Anadolu Rulman A.S.;satis@anadolurulman.example;Kemal Sahin;rulman|yataklama|kecel;EUR;1
+Ornek Elektrik San.;info@ornekelektrik.example;Mehmet Kaya;elektrik|kablo|pano;TRY;1
+Baris Kablo Tic.;teklif@bariskablo.example;Selin Ates;kablo|elektrik;TRY;1
+Ornek Celik A.S.;satis@ornekcelik.example;Ahmet Yilmaz;celik|sac|profil;TRY;1
+Ornek Hidrolik;sales@ornekhidrolik.example;Can Ozturk;hidrolik|hortum|valf;USD;1

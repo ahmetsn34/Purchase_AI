@@ -1,0 +1,47 @@
+{
+  "paths": {
+    "database": "data/rfq.db",
+    "requests": "data/requests",
+    "attachments": "data/attachments",
+    "suppliers_csv": "suppliers.csv"
+  },
+  "llm": {
+    "api_key": "",
+    "model": "claude-sonnet-5"
+  },
+  "email": {
+    "tenant_id": "",
+    "client_id": "",
+    "client_secret": "",
+    "mailbox": "teklif@sirket.com",
+    "sender_name": "Satin Alma"
+  },
+  "telegram": {
+    "token": "",
+    "chat_id": "",
+    "offset_file": "data/tg_offset.json"
+  },
+  "rfq": {
+    "ref_prefix": "RFQ",
+    "subject_prefix": "Fiyat Teklifi Talebi",
+    "signature": "Satin Alma Departmani\nSeafort Service",
+    "suppliers_per_request": 5,
+    "response_days": 5,
+    "grace_days": 1,
+    "reminder_after_days": 2,
+    "max_reminders": 2,
+    "inbox_batch": 50,
+    "allowed_attachments": [".pdf", ".xlsx", ".xls", ".xlsm", ".csv", ".docx", ".txt"],
+    "report_recipients": ["satinalma.muduru@sirket.com"]
+  },
+  "currency": {
+    "vat_rate": 0.20,
+    "as_of": "2026-07-29",
+    "rates": {
+      "TRY": 1.0,
+      "USD": 0,
+      "EUR": 0,
+      "GBP": 0
+    }
+  }
+}
