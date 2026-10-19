@@ -1,5 +1,9 @@
 # Satın Alma Teklif Agent'ı (rfq-agent)
 
+![Status: development paused](https://img.shields.io/badge/status-development_paused-D97706?style=flat-square)
+
+> **Durum: Geliştirme askıda — tamamlanmamış prototip.** Bu projeye daha sonra devam etmeyi planlıyorum. Aşağıdaki belgeler mevcut prototipi ve hedeflenen akışı anlatır; projenin tamamlandığı veya üretim kullanımına hazır olduğu anlamına gelmez.
+
 Excel talep listesinden otomatik fiyat teklifi isteyen, tedarikçi cevaplarını
 (mail gövdesi + PDF/Excel ekleri) okuyup **kalem bazında** karşılaştırma tablosu
 üreten agent. Gönderim Telegram onayına bağlıdır — bu agent'ın mailleri şirket
